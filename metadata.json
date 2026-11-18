@@ -1,0 +1,6 @@
+{
+  "name": "Muhammad Topup Centre",
+  "description": "Premium Free Fire Diamond Top-Up Storefront in Pakistan — Instant UID top-up via JazzCash, EasyPaisa, and Digital Wallets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
